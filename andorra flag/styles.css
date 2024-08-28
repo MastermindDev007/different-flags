@@ -1,0 +1,28 @@
+body{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+}
+.stripe{
+    width: 200px;
+    height: 300px;
+}
+.blue{
+    background-color: #0701a0;
+}
+.yellow{
+    text-align: center;
+    background-color: #fede00;
+}
+.yellow img{
+    margin-top: 40%;
+    height: 50%;
+}
+.red-pink{
+    background-color: #d6002e;
+}
+.flag{
+    display: flex;
+}

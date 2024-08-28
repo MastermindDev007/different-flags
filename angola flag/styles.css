@@ -1,0 +1,21 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+}
+.stripe{
+    width: 350px;
+    height: 100px;
+}
+.red{
+    background-color: #ce1127;
+}
+img{
+    margin-left: 50px;
+    height: 200%;
+}
+.black{
+    background-color: #000000;
+}

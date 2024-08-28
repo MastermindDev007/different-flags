@@ -1,0 +1,28 @@
+body{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+}
+.stripe{
+    width: 200px;
+    height: 300px;
+}
+.black{
+    background-color: #000000;
+}
+.red{
+    text-align: center;
+    background-color: #bf0000;
+}
+.red img{
+    margin-top: 40%;
+    height: 50%;
+}
+.green{
+    background-color: #009900;
+}
+.flag{
+    display: flex;
+}
